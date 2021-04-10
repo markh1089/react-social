@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-social/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/react-social/static/js/main.e77e88a4.chunk.js",
+    "main.js.map": "/react-social/static/js/main.e77e88a4.chunk.js.map",
+    "runtime-main.js": "/react-social/static/js/runtime-main.89948795.js",
+    "runtime-main.js.map": "/react-social/static/js/runtime-main.89948795.js.map",
+    "static/css/2.ac82d1d8.chunk.css": "/react-social/static/css/2.ac82d1d8.chunk.css",
+    "static/js/2.5f43a896.chunk.js": "/react-social/static/js/2.5f43a896.chunk.js",
+    "static/js/2.5f43a896.chunk.js.map": "/react-social/static/js/2.5f43a896.chunk.js.map",
+    "static/js/3.ecc7961f.chunk.js": "/react-social/static/js/3.ecc7961f.chunk.js",
+    "static/js/3.ecc7961f.chunk.js.map": "/react-social/static/js/3.ecc7961f.chunk.js.map",
+    "index.html": "/react-social/index.html",
+    "static/css/2.ac82d1d8.chunk.css.map": "/react-social/static/css/2.ac82d1d8.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/react-social/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.5f43a896.chunk.js.LICENSE.txt": "/react-social/static/js/2.5f43a896.chunk.js.LICENSE.txt",
+    "static/media/dog.2493e748.png": "/react-social/static/media/dog.2493e748.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89948795.js",
+    "static/css/2.ac82d1d8.chunk.css",
+    "static/js/2.5f43a896.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.e77e88a4.chunk.js"
+  ]
+}
